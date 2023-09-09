@@ -57,7 +57,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |1.|long shafted (S35/S55/S80) NEMA17 motors (preferably identical)|4 pcs|
 |2.|GT2 20T drive pulley 9 mm|4 pcs|
 |3.|F695 flanged bearing|12 pcs|
-|4.|695ZZ bearing|10 pcs|
+|4.|695 bearing|10 pcs|
 |5.|9mm GT2 20T Idler (16 mm OD max.)|4 pcs|
 |6.|9mm GATES GT2 belt|4 m|
 |7.|Round aluminum M3 standoff 30x5mm (dowel pins or smooth rods will also work)|8 pcs|
@@ -127,7 +127,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |1.|long shafted (S35/S55/S80) NEMA17 motors (preferably identical)|4 pcs|
 |2.|GT2 20T drive pulley 9 mm|4 pcs|
 |3.|F695 flanged bearing|12 pcs|
-|4.|695ZZ bearing|10 pcs|
+|4.|695 bearing|10 pcs|
 |5.|9mm GT2 20T Idler (16 mm OD max.)|4 pcs|
 |6.|9mm GATES GT2 belt|4 m|
 |7.|Round aluminum M3 standoff 30x5mm (dowel pins or smooth rods will also work)|8 pcs|
