@@ -7,7 +7,10 @@
 ### V6 6mm AWD
 |No.|Description|Qty|
 |---|---|---|
+|Motor mounts and XY joints|
+|---|
 |1.|NEMA17 motors (preferably identical)|4 pcs|
+|---|---|---|
 |2.|GT2 20T Pulley 6mm|4 pcs|
 |3.|F695 flanged bearing| 12 pcs|
 |4.|6mm GT2 20T Idler (16mm OD max.)|4 pcs|
