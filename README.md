@@ -1,17 +1,18 @@
 # Monolith Gantry for V2 and VT [BETA]
 ![1](Images/monolith_render.PNG)
 ## BOM
-To keep the BOM lists relatively simple, I'm gonna include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included).
+To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included).
 
-X extrusion/tube mounting hardware is not included, because that can vary based on the configuration. 
+X extrusion/tube mounting hardware is not included because that can vary based on the configuration. 
 
 ### Y rails: MGN9H
 
-### X rail: MGN9H/MGN12H 
+### X rail: MGN9H/MGN12H 
 
-For FRONT X RAIL: any stock compatible X beam will work with the suitable mounting hardware (XY joint remix might be required).
+For FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (XY joint remix might be required).
 
-For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 degrees and can accommodate new XY joint holes.
+For TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
+
 
 
 
@@ -19,11 +20,11 @@ For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 de
 ### [V2.4|6mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
-|1.|NEMA17 motors (preferably identical)|4 pcs|
+|1.|NEMA17 motors (preferably identical)| pcs|
 |2.|GT2 20T Pulley 6mm|4 pcs|
-|3.|F695 flanged bearing| 12 pcs|
+|3.|F695 flanged bearing|12 pcs|
 |4.|6mm GT2 20T Idler (16mm OD max.)|4 pcs|
-|5.|Round aluminum M3 standoff 25x5mm (dowel pins/smooth rods will also work)|8 pcs|
+|5.|Round aluminum M3 standoff 25x5mm (dowel pins or smooth rods will also work)|8 pcs|
 |6.|5x20mm dowel pin/smooth rod (Round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
 |7.|M5 1mm spacer|8 pcs|
 |8.|M3x6 BHCS|4 pcs|
@@ -49,7 +50,7 @@ For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 de
 |2.|GT2 20T Pulley 6mm|4 pcs|
 |3.|F695 flanged bearing| 12 pcs|
 |4.|6mm GT2 20T Idler (16mm OD max.)|4 pcs|
-|5.|Round aluminum M3 standoff 25x5mm (dowel pins/smooth rods will also work)|8 pcs|
+|5.|Round aluminum M3 standoff 25x5mm (dowel pins or smooth rods will also work)|8 pcs|
 |6.|5x20mm dowel pin/smooth rod (Round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
 |7.|M5 1mm spacer|8 pcs|
 |8.|M3x6 BHCS|4 pcs|
@@ -82,4 +83,3 @@ For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 de
 |---|---|---|
 |1.|M3x25 SHCS|16 pcs|
 |2.|M5x40 SHCS|8 pcs|
-
