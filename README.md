@@ -1,12 +1,14 @@
 # Monolith_Gantry_V2-VT
 
 
-## BOM
+# BOM
 
-### V2 6mm
-|Item|Qty|
-|---|---|
+## V2 6mm
 
+### 2X Front motor mounts
+|No.|Description|Qty.|
+|---|---|---|
+|1.|Identical NEMA17 motors|2|
 
 
 ### V2 9mm
