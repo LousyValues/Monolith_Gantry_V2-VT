@@ -2,7 +2,7 @@
 ![1](Images/monolith_render.PNG)
 ## What's this?
 This is a performance oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
-## Prerequisites
+## Prerequisites for Monolith AWD
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
 - OR a 4040 frame
 - 9 stepper drivers (or CAN) for V2
