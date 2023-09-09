@@ -10,8 +10,8 @@ This is a performance oriented, configurable gantry system for Voron 2.4 and Tri
 - VZ-Hevort CNC toolhead for no build volume loss (Trident may need bed relocation)
 - OR an Archetype based toolhead with remixed belt clamping (all of them lose build volume in the front corners, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
 - OR a toolhead that you made compatible with this gantry
-## DISCLAIMER:
-A lot of this stuff is untested, so final BOM will probably change with more testing/feedback.
+### DISCLAIMER:
+A lot of this stuff is untested, so BOM and files will change with more testing/feedback.
 ## BOM
 ### Rails:
 - Y rails: MGN9H
