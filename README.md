@@ -8,7 +8,7 @@ This is a performance oriented, configurable gantry system for Voron 2.4 and Tri
 - OR a 4040 frame
 - 9 stepper drivers (or CAN) on V2
 - 8 stepper drivers on Trident
-- VZ-Hevort CNC toolhead for no build volume loss (Trident may need bed relocation)
+- VZ-Hevort CNC toolhead for no build volume loss (Trident may need a bed relocation)
 - OR an Archetype based toolhead with remixed belt clamping (all of them lose build volume, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
 - OR a toolhead that you made compatible with this gantry
 ## BOM
@@ -21,9 +21,7 @@ This is a performance oriented, configurable gantry system for Voron 2.4 and Tri
 - TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 ### Belts:
 If you don't switch belt sizes the stock length will be enough.
-
-
-
+### BOM note:
 To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included). X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
 ### [V2.4|6mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
