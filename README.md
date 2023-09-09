@@ -6,7 +6,7 @@
 
 ## V6 6mm AWD
 
-###Motor mounts and XY joints
+### Motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
 |1.|NEMA17 motors (preferably identical)|4 pcs|
@@ -32,7 +32,7 @@
 |21.|M3 roll in T-nut|2 pcs|
 |22.|M5 roll in T-nut|28 pcs|
 
-###GE5C Z joints
+### GE5C Z joints
 |No.|Description|Qty|
 |---|---|---|
 |1.|GE5C bearing|4 pcs|
@@ -41,7 +41,7 @@
 |4.|M5x20 SHCS|4 pcs|
 |5.|M5 1mm spacer|4 pcs|
 
-###Rigid Z joints
+### Rigid Z joints
 |No.|Description|Qty|
 |---|---|---|
 |1.|M3x25 SHCS|16 pcs|
