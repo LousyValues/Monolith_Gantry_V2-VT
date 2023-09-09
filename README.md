@@ -1,5 +1,15 @@
 # Monolith Gantry for V2 and VT [BETA]
 ![1](Images/monolith_render.PNG)
+##Prerequisites
+- 5mm or 2x3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
+- OR 4040 frame
+- 9 stepper drivers (or CAN) for V2
+- 8 stepper drivers for Trident
+- VZ-Hevort CNC toolhead for no build volume loss (VT may need bed relocation)
+- OR Archetype based toolheads with remixed belt clamping (all of them lose build volume, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
+- OR a toolhead that you made compatible with this gantry
+
+
 ## BOM
 To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included).
 
@@ -9,7 +19,7 @@ X extrusion/tube mounting hardware is not included because that can vary based o
 
 ### X rail: MGN9H/MGN12H 
 
-For FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints might be required).
+For FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
 
 For TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 
