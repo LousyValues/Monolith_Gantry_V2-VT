@@ -2,17 +2,17 @@
 ## BOM
 To keep the BOM lists relatively simple, I'm gonna include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included).
 
-X extrusion/tube mounting hardware is not included, because that can vary based on the configuration.
+X extrusion/tube mounting hardware is not included, because that can vary based on the configuration. 
 
-For FRONT X RAIL: any stock compatible X beam will work with the suitable mounting hardware.
+For FRONT X RAIL: any stock compatible X beam will work with the suitable mounting hardware (XY joint remix might be required).
 
 For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 degrees and can accommodate new XY joint holes.
 
-###Y rails: MGN9H
+### Y rails: MGN9H
 
-###X rail: MGN9H/MGN12H 
+### X rail: MGN9H/MGN12H 
 
-### V2.4 6mm AWD motor mounts and XY joints
+### [V2.4|6mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
 |1.|NEMA17 motors (preferably identical)|4 pcs|
@@ -38,7 +38,7 @@ For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 de
 |21.|M3 roll in T-nut|2 pcs|
 |22.|M5 roll in T-nut|28 pcs|
 
-### V2.4 9mm AWD motor mounts and XY joints
+### [V2.4|9mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
 |1.|NEMA17 motors (preferably identical)|4 pcs|
