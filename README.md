@@ -5,11 +5,13 @@
 
 ## V2 6mm AWD
 
-### 2X Front motor mounts
+### Motor mounts
 |No.|Description|Qty.|
 |---|---|---|
-|1.|Identical NEMA17 motors|2|
-|---|---|---|
+|1.|NEMA17 motors (preferably identical)|4|
+|2.|GT2 20T Pulley 6mm|4|
+|3.|F695 flanged bearing| 12|
+|4.|6mm GT2 20T Idler (16mm OD max!)|4|
 
 
 ### V2 9mm
