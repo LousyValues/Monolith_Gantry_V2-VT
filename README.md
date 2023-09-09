@@ -1,12 +1,13 @@
-# Monolith Gantry for V2 and VT [BETA]
+# Monolith Gantry for Voron 2.4 and Trident [BETA]
 ![1](Images/monolith_render.PNG)
 ## What's this?
 This is a performance oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
 ## Prerequisites for Monolith AWD
+- Z chain relocation on V2
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
 - OR a 4040 frame
-- 9 stepper drivers (or CAN) for V2
-- 8 stepper drivers for Trident
+- 9 stepper drivers (or CAN) on V2
+- 8 stepper drivers on Trident
 - VZ-Hevort CNC toolhead for no build volume loss (Trident may need bed relocation)
 - OR an Archetype based toolhead with remixed belt clamping (all of them lose build volume, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
 - OR a toolhead that you made compatible with this gantry
@@ -46,7 +47,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |19.|M5x12 BHCS|4 pcs|
 |20.|M5x16 BHCS|8 pcs|
 |21.|M5 washer (10mm OD max.)|4 pcs|
-|22.|M3 roll in T-nut|2 pcs|
+|22.|M3 roll in T-nut|3 pcs|
 |23.|M5 roll in T-nut|28 pcs|
 |24.|M2 self tapping screw|2 pcs|
 
@@ -74,7 +75,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |19.|M5x12 BHCS|12 pcs|
 |20.|M5x16 BHCS|8 pcs|
 |21.|M5 washer (10 mm OD max.)|4 pcs|
-|22.|M3 roll in T-nut|2 pcs|
+|22.|M3 roll in T-nut|3 pcs|
 |23.|M5 roll in T-nut|28 pcs|
 |24.|M2 self tapping screw|2 pcs|
 
@@ -113,13 +114,12 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |15.|M3x40 SHCS|2 pcs|
 |16.|M3 washer (7mm OD max.)|2 pcs|
 |17.|M3x5x4mm heatset inserts| 10 pcs|
-|18.|M5x10 BHCS|8 pcs|
-|19.|M5x12 BHCS|4 pcs|
-|20.|M5x16 BHCS|8 pcs|
-|21.|M5 washer (10mm OD max.)|4 pcs|
-|22.|M3 roll in T-nut|2 pcs|
-|23.|M5 roll in T-nut|28 pcs|
-|24.|M2 self tapping screw|2 pcs|
+|18.|M5x10 BHCS|24 pcs|
+|19.|M5x12 BHCS|8 pcs|
+|20.|M5 washer (10mm OD max.)|8 pcs|
+|21.|M3 roll in T-nut|3 pcs|
+|22.|M5 roll in T-nut|32 pcs|
+|23.|M2 self tapping screw|2 pcs|
 
 ### [VT|9mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
@@ -142,9 +142,8 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |16.|M3x40 SHCS|2 pcs|
 |17.|M3 washer (7 mm OD max.)|2 pcs|
 |18.|M3x5x4 mm heatset inserts| 10 pcs|
-|19.|M5x12 BHCS|12 pcs|
-|20.|M5x16 BHCS|8 pcs|
-|21.|M5 washer (10 mm OD max.)|4 pcs|
-|22.|M3 roll in T-nut|2 pcs|
-|23.|M5 roll in T-nut|28 pcs|
-|24.|M2 self tapping screw|2 pcs|
+|19.|M5x12 BHCS|32 pcs|
+|20.|M5 washer (10 mm OD max.)|8 pcs|
+|21.|M3 roll in T-nut|3 pcs|
+|22.|M5 roll in T-nut|32 pcs|
+|23.|M2 self tapping screw|2 pcs|
