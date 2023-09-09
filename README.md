@@ -1,5 +1,5 @@
 # Monolith Gantry for V2 and VT [BETA]
-![1](Images/monolith_render.png)
+![1](Images/monolith_render.PNG)
 ## BOM
 To keep the BOM lists relatively simple, I'm gonna include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included).
 
