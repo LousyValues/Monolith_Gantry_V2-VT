@@ -1,16 +1,15 @@
 # Monolith Gantry for V2 and VT [BETA]
 
 
-## BOM
+# BOM
 
 
-### V6 6mm AWD
+## V6 6mm AWD
+
+###Motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
-|Motor mounts and XY joints|
-|---|
 |1.|NEMA17 motors (preferably identical)|4 pcs|
-|---|---|---|
 |2.|GT2 20T Pulley 6mm|4 pcs|
 |3.|F695 flanged bearing| 12 pcs|
 |4.|6mm GT2 20T Idler (16mm OD max.)|4 pcs|
@@ -32,6 +31,26 @@
 |20.|M5 washer (10mm OD max.)|4 pcs|
 |21.|M3 roll in T-nut|2 pcs|
 |22.|M5 roll in T-nut|28 pcs|
+
+###GE5C Z joints
+|No.|Description|Qty|
+|---|---|---|
+|1.|GE5C bearing|4 pcs|
+|2.|M3x16 SHCS|16 pcs|
+|3.|M5x16 SHCS|4 pcs|
+|4.|M5x20 SHCS|4 pcs|
+|5.|M5 1mm spacer|4 pcs|
+
+###Rigid Z joints
+|No.|Description|Qty|
+|---|---|---|
+|1.|M3x25 SHCS|16 pcs|
+|2.|M5x40 SHCS|8 pcs|
+
+
+
+
+
 
 
 
