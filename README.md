@@ -1,6 +1,6 @@
 # Monolith Gantry for V2 and VT [BETA]
 ![1](Images/monolith_render.PNG)
-##Prerequisites
+## Prerequisites
 - 5mm or 2x3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
 - OR 4040 frame
 - 9 stepper drivers (or CAN) for V2
