@@ -4,13 +4,16 @@ To keep the BOM lists relatively simple, I'm gonna include all the hardware and 
 
 X extrusion/tube mounting hardware is not included, because that can vary based on the configuration. 
 
+### Y rails: MGN9H
+
+### X rail: MGN9H/MGN12H 
+
 For FRONT X RAIL: any stock compatible X beam will work with the suitable mounting hardware (XY joint remix might be required).
 
 For TOP X RAIL, any stock compatible X beam will work, that can be rotated 90 degrees and can accommodate new XY joint holes.
 
-### Y rails: MGN9H
 
-### X rail: MGN9H/MGN12H 
+
 
 ### [V2.4|6mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
