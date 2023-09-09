@@ -13,10 +13,6 @@
 ## BOM
 DISCLAIMER: A lot of this stuff is untested, so final BOM will probably change with more testing/feedback.
 
-To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included).
-
-X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
-
 - Y rails: MGN9H
 
 - X rail: MGN9H/MGN12H 
@@ -25,10 +21,7 @@ X extrusion/tube mounting hardware is not included because that can vary based o
 
 - TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 
-
-
-
-
+To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included). X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
 ### [V2.4|6 mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
