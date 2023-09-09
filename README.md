@@ -1,6 +1,8 @@
 # Monolith Gantry for V2 and VT [BETA]
 ![1](Images/monolith_render.PNG)
-## Prerequisites for AWD configs
+## What's this?
+This is a performnce oriented, configurable gantry system for Voron 2.4 and Trident. It's a blend of VZbot AWD simplicity and Voron space efficiency.
+## Prerequisites
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
 - OR a 4040 frame
 - 9 stepper drivers (or CAN) for V2
@@ -8,15 +10,12 @@
 - VZ-Hevort CNC toolhead for no build volume loss (Trident may need bed relocation)
 - OR an Archetype based toolhead with remixed belt clamping (all of them lose build volume in the front corners, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
 - OR a toolhead that you made compatible with this gantry
-
-
 ## BOM
 DISCLAIMER: A lot of this stuff is untested, so final BOM will probably change with more testing/feedback.
 ### Rails:
 - Y rails: MGN9H
 
 - X rail: MGN9H/MGN12H
-
 ### X axis:
 - FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
 
