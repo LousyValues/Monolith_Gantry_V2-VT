@@ -1,7 +1,7 @@
 # Monolith Gantry for V2 and VT [BETA]
 ![1](Images/monolith_render.PNG)
 ## What's this?
-This is a performnce oriented, configurable gantry system for Voron 2.4 and Trident. It's a perfect blend of VZbot AWD simplicity and Voron space efficiency.
+This is a performance oriented, configurable gantry system for Voron 2.4 and Trident. It's a perfect blend of VZbot AWD simplicity and Voron space efficiency.
 ## Prerequisites
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
 - OR a 4040 frame
