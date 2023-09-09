@@ -5,7 +5,7 @@
 - OR a 4040 frame
 - 9 stepper drivers (or CAN) for V2
 - 8 stepper drivers for Trident
-- VZ-Hevort CNC toolhead for no build volume loss (VT may need bed relocation)
+- VZ-Hevort CNC toolhead for no build volume loss (Trident may need bed relocation)
 - OR Archetype based toolheads with remixed belt clamping (all of them lose build volume, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
 - OR a toolhead that you made compatible with this gantry
 
