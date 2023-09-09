@@ -15,14 +15,14 @@ This is a performance oriented, configurable gantry system for Voron 2.4 and Tri
 ### DISCLAIMER: A lot of this stuff is untested, so BOM and files will change with more testing and feedback.
 ### Rails:
 - Y rails: MGN9H
-
 - X rail: MGN9H/MGN12H
 ### X axis:
 - FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
-
 - TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 ### Belts:
 If you don't switch belt sizes the stock length will be enough.
+
+
 
 To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included). X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
 ### [V2.4|6mm|AWD] motor mounts and XY joints
