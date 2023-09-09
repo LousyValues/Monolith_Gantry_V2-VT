@@ -12,11 +12,12 @@
 
 ## BOM
 DISCLAIMER: A lot of this stuff is untested, so final BOM will probably change with more testing/feedback.
-
+###Rails:
 - Y rails: MGN9H
 
-- X rail: MGN9H/MGN12H 
+- X rail: MGN9H/MGN12H
 
+###X axis:
 - FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
 
 - TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
