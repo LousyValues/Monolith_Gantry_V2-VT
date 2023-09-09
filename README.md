@@ -1,7 +1,7 @@
 # Monolith Gantry for Voron 2.4 and Trident [BETA]
 ![1](Images/monolith_render.PNG)
 ## What's this?
-This is a performance oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
+This is a performance-oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
 ## Prerequisites for Monolith AWD
 - Z chain relocation on V2
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
@@ -9,18 +9,18 @@ This is a performance oriented, configurable gantry system for Voron 2.4 and Tri
 - 9 stepper drivers (or CAN) on V2
 - 8 stepper drivers on Trident
 - VZ-Hevort CNC toolhead for no build volume loss (Trident may need a bed relocation)
-- OR an Archetype based toolhead with remixed belt clamping (all of them lose build volume, Breakneck, Atrocity and Mjölnir are promising, the others probably won't fit)
+- OR an Archetype-based toolhead with remixed belt clamping (all of them lose build volume; Breakneck, Atrocity, and Mjölnir are promising; the others probably won't fit)
 - OR a toolhead that you made compatible with this gantry
 ## BOM
-### DISCLAIMER: A lot of this stuff is untested, so BOM and files will change with more testing and feedback.
+### DISCLAIMER: A lot of this stuff is untested, so the BOM and files will change with more testing and feedback.
 ### Rails:
 - Y rails: MGN9H
 - X rail: MGN9H/MGN12H
 ### X axis:
 - FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
-- TOP X RAIL, any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
+- TOP X RAIL: any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 ### Belts:
-If you don't switch belt sizes the stock length will be enough.
+If you don't switch belt sizes, the stock length will be enough.
 ### BOM note:
 To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included). X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
 ### [V2.4|6mm|AWD] motor mounts and XY joints
@@ -32,7 +32,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |4.|6mm GT2 20T Idler (16mm OD max.)|4 pcs|
 |5.|6mm GATES GT2 belt|stock length|
 |6.|Round aluminum M3 standoff 25x5mm (dowel pins or smooth rods will also work)|8 pcs|
-|7.|5x20mm dowel pin/smooth rod (Round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
+|7.|5x20mm dowel pin/smooth rod (round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
 |8.|M5 1mm spacer|12 pcs|
 |9.|M3x6 BHCS|4 pcs|
 |10.|M3x10 BHCS|4 pcs|
@@ -60,7 +60,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |5.|9mm GT2 20T Idler (16 mm OD max.)|4 pcs|
 |6.|9mm GATES GT2 belt|stock length|
 |7.|Round aluminum M3 standoff 30x5mm (dowel pins or smooth rods will also work)|8 pcs|
-|8.|5x20mm dowel pin/smooth rod (Round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
+|8.|5x20mm dowel pin/smooth rod (round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
 |9.|M5 1mm spacer|12 pcs|
 |10.|M3x6 BHCS|4 pcs|
 |11.|M3x10 BHCS|4 pcs|
@@ -101,7 +101,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |4.|6mm GT2 20T Idler (16mm OD max.)|4 pcs|
 |5.|6mm GATES GT2 belt|stock length|
 |6.|Round aluminum M3 standoff 25x5mm (dowel pins or smooth rods will also work)|8 pcs|
-|7.|5x20mm dowel pin/smooth rod (Round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
+|7.|5x20mm dowel pin/smooth rod (round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
 |8.|M5 1mm spacer|16 pcs|
 |9.|M3x6 BHCS|4 pcs|
 |10.|M3x10 BHCS|4 pcs|
@@ -128,7 +128,7 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |5.|9mm GT2 20T Idler (16 mm OD max.)|4 pcs|
 |6.|9mm GATES GT2 belt|stock length|
 |7.|Round aluminum M3 standoff 30x5mm (dowel pins or smooth rods will also work)|8 pcs|
-|8.|5x20mm dowel pin/smooth rod (Round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
+|8.|5x20mm dowel pin/smooth rod (round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
 |9.|M5 1mm spacer|16 pcs|
 |10.|M3x6 BHCS|4 pcs|
 |11.|M3x10 BHCS|4 pcs|
