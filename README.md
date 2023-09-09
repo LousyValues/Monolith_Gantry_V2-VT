@@ -1,8 +1,8 @@
 # Monolith Gantry for V2 and VT [BETA]
 ![1](Images/monolith_render.PNG)
-## Prerequisites
-- 5mm or 2x3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
-- OR 4040 frame
+## Prerequisites for AWD configs
+- 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
+- OR a 4040 frame
 - 9 stepper drivers (or CAN) for V2
 - 8 stepper drivers for Trident
 - VZ-Hevort CNC toolhead for no build volume loss (VT may need bed relocation)
