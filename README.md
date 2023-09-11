@@ -60,33 +60,6 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |22.|M5 roll in T-nut|28 pcs|
 |23.|M2 self tapping screw|2 pcs|
 
-### [V2.4|9mm|AWD] motor mounts and XY joints
-|No.|Description|Qty|
-|---|---|---|
-|1.|long shafted (S35/S55/S80) NEMA17 motors (preferably identical)|4 pcs|
-|2.|GT2 20T drive pulley 9 mm|4 pcs|
-|3.|F695 flanged bearing|12 pcs|
-|4.|695 bearing|10 pcs|
-|5.|9mm GT2 20T Idler (16 mm OD max.)|4 pcs|
-|6.|9mm GATES GT2 belt|stock length|
-|7.|Round aluminum M3 standoff 30x5mm (dowel pins or smooth rods will also work)|8 pcs|
-|8.|5x20mm dowel pin/smooth rod (round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
-|9.|M5 1mm spacer|12 pcs|
-|10.|M3x6 BHCS|4 pcs|
-|11.|M3x10 BHCS|4 pcs|
-|12.|M3x35 BHCS|8 pcs|
-|13.|M3x8 FHCS|11 pcs|
-|14.|M3x12 SHCS|2 pcs|
-|15.|M3x45 SHCS|16 pcs|
-|16.|M3x40 SHCS|2 pcs|
-|17.|M3 washer (7 mm OD max.)|2 pcs|
-|18.|M3x5x4 mm heatset inserts| 10 pcs|
-|19.|M5x12 BHCS|12 pcs|
-|20.|M5x16 BHCS|8 pcs|
-|21.|M3 roll in T-nut|3 pcs|
-|22.|M5 roll in T-nut|28 pcs|
-|23.|M2 self tapping screw|2 pcs|
-
 ### GE5C Z joints (only for 6mm belts)
 |No.|Description|Qty|
 |---|---|---|
@@ -124,32 +97,6 @@ To keep the BOM lists relatively simple, I'm going to include all the hardware a
 |17.|M3x5x4mm heatset inserts| 10 pcs|
 |18.|M5x10 BHCS|24 pcs|
 |19.|M5x12 BHCS|8 pcs|
-|20.|M3 roll in T-nut|3 pcs|
-|21.|M5 roll in T-nut|32 pcs|
-|22.|M2 self tapping screw|2 pcs|
-
-### [VT|9mm|AWD] motor mounts and XY joints
-|No.|Description|Qty|
-|---|---|---|
-|1.|long shafted (S35/S55/S80) NEMA17 motors (preferably identical)|4 pcs|
-|2.|GT2 20T drive pulley 9 mm|4 pcs|
-|3.|F695 flanged bearing|12 pcs|
-|4.|695 bearing|10 pcs|
-|5.|9mm GT2 20T Idler (16 mm OD max.)|4 pcs|
-|6.|9mm GATES GT2 belt|stock length|
-|7.|Round aluminum M3 standoff 30x5mm (dowel pins or smooth rods will also work)|8 pcs|
-|8.|5x20mm dowel pin/smooth rod (round aluminum M3 standoffs 20x5mm will also work)|2 pcs|
-|9.|M5 1mm spacer|16 pcs|
-|10.|M3x6 BHCS|4 pcs|
-|11.|M3x10 BHCS|4 pcs|
-|12.|M3x35 BHCS|8 pcs|
-|13.|M3x8 FHCS|11 pcs|
-|14.|M3x12 SHCS|2 pcs|
-|15.|M3x45 SHCS|16 pcs|
-|16.|M3x40 SHCS|2 pcs|
-|17.|M3 washer (7 mm OD max.)|2 pcs|
-|18.|M3x5x4 mm heatset inserts| 10 pcs|
-|19.|M5x12 BHCS|32 pcs|
 |20.|M3 roll in T-nut|3 pcs|
 |21.|M5 roll in T-nut|32 pcs|
 |22.|M2 self tapping screw|2 pcs|
