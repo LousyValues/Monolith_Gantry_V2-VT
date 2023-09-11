@@ -2,15 +2,25 @@
 ![1](Images/monolith_render.PNG)
 ## What's this?
 This is a performance-oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
+## Updates
+### 11.09.2023: I added the complete X-axis CAD with motor mount clearances to help with toolhead compatibility checks and XY joint and/or toolhead carriage remixing.
+
+A lot of the usable hardware combinations are also included: pins, standoffs, shoulder bolts, etc.
+
+Front rail: belt location from the X-beam is yet to be decided. I am open to suggestions on how we should make the flipped belt path compatible with existing Voron(mod) toolheads. XY joints CAD available for 6 and 9mm belts.
+
+Top rail: the included VZ-Hevort CNC toolhead compatible 6 and 9mm XY joints are easy to remix for different top rail toolheads. Please make sure the layout matches your toolhead (eg. front right belt is upper or lower). Motor mounts will be compatible with both if they're printed accordingly (normal or mirrored).
+
+Note: 9mm BOM and STLs for all of the motor mounts are going to be in the next update in 2-3 DAYS.
 ## Prerequisites for Monolith AWD
 - Z chain relocation on V2
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
 - OR a 4040 frame
 - 9 stepper drivers (or CAN) on V2
 - 8 stepper drivers on Trident
-- VZ-Hevort CNC toolhead for no build volume loss (Trident may need a bed relocation)
-- OR an Archetype-based toolhead with remixed belt clamping (all of them lose build volume; Breakneck, Atrocity, and Mjölnir are promising; the others probably won't fit)
-- OR a toolhead that you made compatible with this gantry
+- Trident may need a bed relocation to get to the front of the bed (you can just move the PEI sheet for the same effect)
+- VZ-Hevort CNC toolhead is recommended for no build volume loss (XY joints already available for 6 and 9mm belts)
+- OR any toolhead that you make compatible with this gantry (top rail or flipped belt path front rail)
 ## BOM
 ### DISCLAIMER: A lot of this stuff is untested, so the BOM and files will change with more testing and feedback.
 ### Rails:
