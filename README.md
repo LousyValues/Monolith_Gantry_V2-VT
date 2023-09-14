@@ -15,7 +15,7 @@ This is a performance-oriented, configurable gantry system for Voron 2.4 and Tri
 
 ![3](Images/VT_6mm_front_rail.png)
 
-**Available X-axis configurationss:**
+**Available X-axis configurations:**
 - Top rail (preferred, no build volume loss with certain toolheads)
 - Front rail (flipped belts, toothed side facing the X extrusion)
 
