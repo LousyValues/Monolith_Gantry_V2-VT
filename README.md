@@ -26,16 +26,16 @@ A lot of the usable hardware combinations are also included: pins, standoffs, sh
 - OR any toolhead that you make compatible with this gantry (top rail or flipped belt path front rail)
 ## BOM
 ### BOM DISCLAIMER: A lot of this stuff is untested, so the BOM and files will change with more testing and feedback.
+
+To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included). X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
 ### Rails:
-- Y rails: MGN9H
-- X rail: MGN9H/MGN12H
+- **Y rails:** MGN9H
+- **X rail:** MGN9H/MGN12H
 ### X axis:
 - **Front rail:** any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
 - **Top rail:** any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 ### Belts:
 If you don't switch belt sizes, the stock length will be enough.
-### BOM note:
-To keep the BOM lists relatively simple, I'm going to include all the hardware and motion parts for the motor mounts and XY joints (with the stock stuff included). X extrusion/tube mounting hardware is not included because that can vary based on the configuration.
 ### [V2.4|6mm|AWD] motor mounts and XY joints
 |No.|Description|Qty|
 |---|---|---|
