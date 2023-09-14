@@ -5,16 +5,16 @@ This is a performance-oriented, configurable gantry system for Voron 2.4 and Tri
 ## Updates
 ### 14.09.2023:
 
-I added the STLs for all of the existing combinations. Huge thanks to **krankydonkey** for remixing all of the Archetype belt clamps for this flipped belt path (CAD/STLs added).
+I added the STLs for all of the existing combinations. Huge thanks to @**krankydonkey** for remixing all of the Archetype belt clamps for this flipped belt path (CAD/STLs added).
 ### 11.09.2023:
 
 I added the complete X-axis CAD with motor mount clearances to help with toolhead compatibility checks and XY joint and/or toolhead carriage remixing.
 
 A lot of the usable hardware combinations are also included: pins, standoffs, shoulder bolts, etc.
 
-Front rail: belt location from the X-beam is yet to be decided. I am open to suggestions on how we should make the flipped belt path compatible with existing Voron(mod) toolheads. XY joints CAD available for 6 and 9mm belts.
+**Front rail:** belt location from the X-beam is yet to be decided. I am open to suggestions on how we should make the flipped belt path compatible with existing Voron(mod) toolheads. XY joints CAD available for 6 and 9mm belts.
 
-Top rail: the included VZ-Hevort CNC toolhead compatible 6 and 9mm XY joints are easy to remix for different top rail toolheads. Please make sure the layout matches your toolhead (eg. front right belt is upper or lower). Motor mounts will be compatible with both if they're printed accordingly (normal or mirrored).
+**Top rail:** the included VZ-Hevort CNC toolhead compatible 6 and 9mm XY joints are easy to remix for different top rail toolheads. Please make sure the layout matches your toolhead (eg. front right belt is upper or lower). Motor mounts will be compatible with both if they're printed accordingly (normal or mirrored).
 ## Prerequisites for Monolith AWD
 - Z chain relocation on V2
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
@@ -25,13 +25,13 @@ Top rail: the included VZ-Hevort CNC toolhead compatible 6 and 9mm XY joints are
 - VZ-Hevort CNC toolhead is recommended for no build volume loss (XY joints already available for 6 and 9mm belts)
 - OR any toolhead that you make compatible with this gantry (top rail or flipped belt path front rail)
 ## BOM
-### DISCLAIMER: A lot of this stuff is untested, so the BOM and files will change with more testing and feedback.
+### BOM DISCLAIMER: A lot of this stuff is untested, so the BOM and files will change with more testing and feedback.
 ### Rails:
 - Y rails: MGN9H
 - X rail: MGN9H/MGN12H
 ### X axis:
-- FRONT X RAIL: any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
-- TOP X RAIL: any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
+- **Front rail:** any stock-compatible X beam will work with the suitable mounting hardware (remixed XY joints may be required).
+- **Top rail:** any stock-compatible X beam that can be rotated 90 degrees and can accommodate new XY joint holes will work.
 ### Belts:
 If you don't switch belt sizes, the stock length will be enough.
 ### BOM note:
