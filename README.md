@@ -3,8 +3,12 @@
 ## What's this?
 This is a performance-oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
 ## Updates
-### 14.09.2023: I added the STLs for all of the existing combinations. Huge thanks to **krankydonkey** for remixing all of the Archetype belt clamps for this flipped belt path (CAD/STLs added).
-### 11.09.2023: I added the complete X-axis CAD with motor mount clearances to help with toolhead compatibility checks and XY joint and/or toolhead carriage remixing.
+### 14.09.2023:
+
+I added the STLs for all of the existing combinations. Huge thanks to **krankydonkey** for remixing all of the Archetype belt clamps for this flipped belt path (CAD/STLs added).
+### 11.09.2023:
+
+I added the complete X-axis CAD with motor mount clearances to help with toolhead compatibility checks and XY joint and/or toolhead carriage remixing.
 
 A lot of the usable hardware combinations are also included: pins, standoffs, shoulder bolts, etc.
 
