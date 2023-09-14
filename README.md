@@ -1,17 +1,18 @@
 # Monolith Gantry for Voron 2.4 and Trident [BETA]
-![1](Images/monolith_render.PNG)
+![1](Images/V2_9mm_top_rail.png)
 ## What's this?
 This is a performance-oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
-
+![2](Images/front_motor.png)
 **Available gantry configurations:**
 - V2 6mm AWD
 - V2 9mm AWD
 - VT 6mm AWD
 - VT 9mm AWD
-
+![3](Images/VT_6mm_front_rail.png)
 **Available X-axis configurationss:**
 - Top rail (preferred, no build volume loss with certain toolheads)
 - Front rail (flipped belts, toothed side facing the X extrusion)
+![4](Images/xy_joint.png)
 ## What's the catch?
 You have to space out the front and rear panels on your printer by using 5mm or 2x3mm foam tape.
 ## Updates
@@ -27,6 +28,7 @@ A lot of the usable hardware combinations are also included: pins, standoffs, sh
 - **Front rail:** belt location from the X-beam is yet to be decided. I am open to suggestions on how we should make the flipped belt path compatible with existing Voron(mod) toolheads. XY joints CAD available for 6 and 9mm belts.
 
 - **Top rail:** the included VZ-Hevort CNC toolhead compatible 6 and 9mm XY joints are easy to remix for different top rail toolheads. Please make sure the layout matches your toolhead (eg. front right belt is upper or lower). Motor mounts will be compatible with both if they're printed accordingly (normal or mirrored).
+![5](Images/tensioner.png)
 ## Prerequisites for Monolith AWD
 - Z chain relocation on V2
 - 5mm or double 3mm foam tape under the rear and the front panels, because there's a 3.6mm stepper protrusion
@@ -36,6 +38,7 @@ A lot of the usable hardware combinations are also included: pins, standoffs, sh
 - Trident may need a bed relocation to get to the front of the bed (you can just move the PEI sheet for the same effect)
 - VZ-Hevort CNC toolhead is recommended for no build volume loss (XY joints already available for 6 and 9mm belts)
 - OR any toolhead that you make compatible with this gantry (top rail or flipped belt path front rail)
+![6](Images/Y_endstop.png)
 ## BOM
 ### DISCLAIMER: A lot of this stuff is untested, so the BOM and files will change with more testing and feedback.
 
