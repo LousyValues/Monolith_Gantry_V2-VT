@@ -2,6 +2,16 @@
 ![1](Images/monolith_render.PNG)
 ## What's this?
 This is a performance-oriented, configurable gantry system for Voron 2.4 and Trident. It brings VZbot AWD simplicity and Voron space efficiency together.
+
+**Available gantry configurations:**
+- V2 6mm AWD
+- V2 9mm AWD
+- VT 6mm AWD
+- VT 9mm AWD
+
+**Available X-axis configurationss:**
+- Top rail (preferred, no build volume loss with certain toolheads)
+- Front rail (flipped belts, toothed side facing the X extrusion)
 ## What's the catch?
 You have to space out the front and rear panels on your printer by using 5mm or 2x3mm foam tape.
 ## Updates
